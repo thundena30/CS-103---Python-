@@ -1,0 +1,10 @@
+GCD of 2 and 12 is 2.
+GCD of 8 and 64 is 8.
+GCD of 2 and 16 is 2.
+GCD of 10 and 80 is 10.
+GCD of 2 and 12 is 2.
+GCD of 2 and 12 is 2.
+GCD of 8 and 64 is 8.
+GCD of 2 and 16 is 2.
+GCD of 10 and 80 is 10.
+GCD of 2 and 12 is 2.
